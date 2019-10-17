@@ -1,0 +1,6 @@
+/clien/.idea
+/clien/out
+/server/.idea
+/server/out
+*.iml
+*.png
